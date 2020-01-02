@@ -17,7 +17,7 @@ void PrintVersion()
 		printf("x86\n");
 	#endif
 	printf("version 2015.03.10\n");
-	printf("by Eugene Larchenko\n");
+	printf("by Eugene Larchenko (https://gitlab.com/eugene77)\n");
 	printf("\n");
 }
 

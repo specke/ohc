@@ -1,4 +1,10 @@
 
+/*
+Copyright (c) 2015-2020 Eugene Larchenko, el6345@gmail.com
+Published under the MIT License
+*/
+
+
 #include "compress.h"
 #include <Windows.h>
 
